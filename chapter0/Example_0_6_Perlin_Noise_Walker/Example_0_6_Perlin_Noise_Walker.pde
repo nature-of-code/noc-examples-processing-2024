@@ -5,7 +5,7 @@
 Walker walker;
 
 void setup() {
-  size(640, 360); // creating canvas of size 640 x 240
+  size(640, 360); // creating canvas of size 640 x 360
   walker = new Walker(); // creating an instance/object of class Walker
   background(255);
 }
